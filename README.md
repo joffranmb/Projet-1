@@ -13,3 +13,5 @@ Abcdef  **un truc en gras**
 | 3  | 3  |   |                               |   |
 | 4  | 5  |   | **un autre truc en italique** |   |
 |    |    |   |                               |   |
+
+loric est ~~**beau**~~
