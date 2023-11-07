@@ -14,7 +14,7 @@ Abcdef  **un truc en gras**
 | 4  | 5  |   | **un autre truc en italique** |   |
 |    |    |   |                               |   |
 
-loric est ~~**beau**~~
+loric est ~~**très beau**~~
 
 #### Titre 4 
 Ce n'est que le debut **un truc en gras**
